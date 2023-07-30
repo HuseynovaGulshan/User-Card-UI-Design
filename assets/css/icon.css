@@ -1,0 +1,21 @@
+.icon{
+  width: 32px;
+  height: 32px;
+  gap:16px;
+  display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-star{
+  background-image: url(../icon/star.svg);
+}
+.icon-medal{
+  background-image: url(../icon/medal.svg);
+}
+.icon-person{
+  background-image: url(../icon/person.svg);
+}

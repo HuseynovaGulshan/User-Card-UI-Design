@@ -1,0 +1,27 @@
+body{
+background-color: #F3F8FE;
+display: flex;
+padding: 283px 519px 284px 519px;
+justify-content: center;
+align-items: center;
+
+}
+
+.container{
+  display: inline-flex;
+  background: #fff;
+  width: 562px;
+  height: 507px;  
+ 
+}
+.head{
+margin-top:8px;
+display: inline-block;
+
+}
+.info{
+  width: 332px;
+}
+.end{
+  border:2px solid #c4cadf;
+}
